@@ -1,0 +1,6 @@
+Activitate laboratorul 4
+
+Cerinta 1: Am reusit sa dau cate un exemplu pentru fiecare instructiune si am facut
+diagramele cerute in laborator.
+Cerinta 2: Am reusit sa implementez memoria ROM, am testat-o pe placuta
+si functioneaza.
